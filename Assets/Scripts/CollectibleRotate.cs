@@ -8,7 +8,7 @@ public class CollectibleRotate : MonoBehaviour
     {
         
     }
-
+    //a new comment added
     // Update is called once per frame
     void Update()
     {
