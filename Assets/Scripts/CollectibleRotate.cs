@@ -9,6 +9,7 @@ public class CollectibleRotate : MonoBehaviour
         
     }
     //a new comment added
+    //new comment added from git hub
     // Update is called once per frame
     void Update()
     {
